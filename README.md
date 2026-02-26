@@ -1,5 +1,5 @@
 # Confidence-Aware Speech Classification (Prototype)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([PASTE_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1Ax9a9JcOzdX1bQDAyFXQRsFKbX95dxOd#scrollTo=TYgV8LZ4USOs))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jason-Shao428/Demo-Confidence-aware-alzheimer-speech-/blob/main/calibration_demo.ipynb)
 Prototype exploring calibration and predictive reliability for transformer-based models, motivated by Alzheimer’s disease detection in clinical settings.
 
 ## What’s in this repo
